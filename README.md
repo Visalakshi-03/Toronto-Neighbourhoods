@@ -1,0 +1,1 @@
+Some of the Toronto city's data are available for the older 140 neighbourhood jurisdictions. Using this database we can query the relevant data for the newly formed 158 neighbourhoods. Sample queries are included in the repo.
